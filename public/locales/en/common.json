@@ -1,0 +1,19 @@
+{
+  "login": "Login",
+  "email": "Email",
+  "password": "Password",
+  "forgotPassword": "Forgot Password?",
+  "submit": "Submit",
+  "successLogin": "Login successful!",
+  "errorLogin": "Invalid email or password.",
+  "successReset": "A reset link has been sent to your email.",
+  "errorEmail": "Please enter a valid email address.",
+  "language": "Language",
+"logout": "Logout",
+  "passwordMinLength":"Password must be at least {{count}} characters",
+  "invalidInput": "Invalid input",
+  "tooManyAttempts": "Too many login attempts. Please try again later.",
+  "invalidEmailOrPassword": "Invalid email or password",
+  "invalidEmail": "Invalid email address",
+  "emailNotFound": "This email is not registered."
+} 
